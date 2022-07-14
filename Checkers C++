@@ -1,4 +1,4 @@
-[20:26, 7/10/2022] Камусик: #include <iostream>
+#include <iostream>
 //модули библиотеки sfml 
 #include <SFML/Graphics.hpp> //2D графический модуль: спрайты, текст, фигуры, ..
 #include <SFML/Audio.hpp>//Звуки, потоковая передача
